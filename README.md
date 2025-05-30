@@ -10,7 +10,7 @@
 ## Ferramentas que utilizo
 <div>
   <img aling"center" alt="html" height="45" wudht="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"/>
-  <img aling"center" alt="html" height="45" wudht="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png"/>
+  <img aling"center" alt="html" height="45" wudht="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png"/>
 </div>
 <!--
 **arthurNVmartins/arthurNVmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
